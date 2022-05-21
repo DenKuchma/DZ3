@@ -1,0 +1,60 @@
+.form{
+    height: 100vh;
+    width: 100%;
+    background-color: antiquewhite;
+}
+h3{
+    text-align: center;
+}
+ol{
+    list-style: none;
+}
+li{
+    display: flex;
+    margin-bottom: 10px;
+}
+label{
+    display: block;
+    width: 100px;
+
+}
+input{
+    margin-bottom: 5px;
+    display: block;
+    width: 55.5%;
+}
+#date{
+    width: 30%;
+    margin-right: 5%
+}
+#month{
+    width: 20%;
+}
+#radio{
+    width: 2%;
+}
+#radio2{
+    width: 2%;
+
+}
+#checkbox{
+    margin-left: 105px;
+    width: 2%;
+}
+#div{
+    margin-right: 70px;
+}
+#adress{
+    height: 60px;
+}
+button{
+    width: 10%;
+    margin-left: 110px ;
+}
+#button1{
+    background-color: aqua;
+}
+#button2{
+    margin-left: 10px;
+    background-color: blueviolet ;
+}
